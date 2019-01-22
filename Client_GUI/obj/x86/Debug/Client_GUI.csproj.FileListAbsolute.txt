@@ -1,0 +1,6 @@
+C:\Users\Asif\documents\visual studio 2010\Projects\server_GUI\Client_GUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asif\documents\visual studio 2010\Projects\server_GUI\Client_GUI\obj\x86\Debug\Win_frm_Tcp_client.Client.resources
+C:\Users\Asif\documents\visual studio 2010\Projects\server_GUI\Client_GUI\obj\x86\Debug\Client_GUI.Properties.Resources.resources
+C:\Users\Asif\documents\visual studio 2010\Projects\server_GUI\Client_GUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asif\documents\visual studio 2010\Projects\server_GUI\Client_GUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Asif\Documents\Visual Studio 2010\Projects\server_GUI\Client_GUI\obj\x86\Debug\Client_GUI.csproj.GenerateResource.Cache

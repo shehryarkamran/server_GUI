@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server_GUI", "server_GUI\server_GUI.csproj", "{B3F65F75-0183-43E3-83E9-B3A0F602846B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_GUI", "Client_GUI\Client_GUI.csproj", "{90B3359B-9A1F-4ADE-924B-2E1D00525D81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F65F75-0183-43E3-83E9-B3A0F602846B}.Debug|x86.ActiveCfg = Debug|x86
+		{B3F65F75-0183-43E3-83E9-B3A0F602846B}.Debug|x86.Build.0 = Debug|x86
+		{B3F65F75-0183-43E3-83E9-B3A0F602846B}.Release|x86.ActiveCfg = Release|x86
+		{B3F65F75-0183-43E3-83E9-B3A0F602846B}.Release|x86.Build.0 = Release|x86
+		{90B3359B-9A1F-4ADE-924B-2E1D00525D81}.Debug|x86.ActiveCfg = Debug|x86
+		{90B3359B-9A1F-4ADE-924B-2E1D00525D81}.Debug|x86.Build.0 = Debug|x86
+		{90B3359B-9A1F-4ADE-924B-2E1D00525D81}.Release|x86.ActiveCfg = Release|x86
+		{90B3359B-9A1F-4ADE-924B-2E1D00525D81}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

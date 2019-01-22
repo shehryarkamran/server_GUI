@@ -1,0 +1,11 @@
+C:\Users\Asif\documents\visual studio 2010\Projects\server_GUI\server_GUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asif\documents\visual studio 2010\Projects\server_GUI\server_GUI\obj\x86\Debug\win_frm_tcp_server.Tcp_seerver.resources
+C:\Users\Asif\documents\visual studio 2010\Projects\server_GUI\server_GUI\obj\x86\Debug\server_GUI.Properties.Resources.resources
+C:\Users\Asif\documents\visual studio 2010\Projects\server_GUI\server_GUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asif\documents\visual studio 2010\Projects\server_GUI\server_GUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Asif\Documents\Visual Studio 2010\Projects\server_GUI\server_GUI\obj\x86\Debug\server_GUI.csproj.GenerateResource.Cache
+C:\Users\Asif\Documents\Visual Studio 2010\Projects\server_GUI\server_GUI\obj\x86\Debug\server_GUI.csprojResolveAssemblyReference.cache
+D:\Present Lectures\System Programming\server_GUI\server_GUI\obj\x86\Debug\server_GUI.csprojResolveAssemblyReference.cache
+D:\Present Lectures\System Programming\server_GUI\server_GUI\obj\x86\Debug\win_frm_tcp_server.Tcp_seerver.resources
+D:\Present Lectures\System Programming\server_GUI\server_GUI\obj\x86\Debug\server_GUI.Properties.Resources.resources
+D:\Present Lectures\System Programming\server_GUI\server_GUI\obj\x86\Debug\server_GUI.csproj.GenerateResource.Cache
